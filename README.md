@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Lara</h1>
 <h3 align="center">Full-Stack Developer with a knack for creative and artistic flare.</h3>
+<p>I enjoy making web applications that incorporate creative and artistic flare while being practical solutions for niche or big problems the world faces. React, JavaScript, Python are some of the many software languages and tools that I've developed from years of practicing. My main goals are to  work as a full-stack web developer in the tech industry where I can work with like minded and caring people who wish to impact the industry and the world we reside in while applying a sense of artistry in the technology we made.<p>
 
 - 🌱 I’m currently learning **Python and MySQL**
 
